@@ -125,18 +125,18 @@
  }
  .one{
     width: 90vw;
-    height: 130vh;
+    height: 52vh;
     background-color: #fff;
  }
  .getstarted{
-    margin-left:-0.625em;
+    margin-left:-30px;
  }
  .menuitemone{
     margin-top: 10px;
     margin-left: -25px;
  }
  .explore{
-    text-align: justify;
+
  }
     
 }
