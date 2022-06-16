@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300&family=Quantico&family=Spline+Sans+Mono:wght@500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: #FDF5D8;
+    width: 100%;
+    height: auto;
+}
+.imagegirl{
+    margin-left: 12px;
+}
+.menuitemone {
+    margin-top: 60px;
+    margin-right: 200px;
+    color: #344854;
+    margin-left: 30px;
+}
+.menuitem{
+    
+}
+.explore{
+    text-align: justify;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 10px;
+}
+.free{
+    margin-top: -5px;
+    font-size: 36px;
+}
+
+
+.mid{
+    width: 100%;
+    height: auto;
+    background-color: #DEE3E9;
+}
+.mid h2{
+    text-align: center;
+}
+
+
+.one{
+    width: 34.375rem;
+    height: 305px;
+    background-color: #fff;
+    /* b-webkit-box-shadow: 12px 17px 14px -13px rgba(0,1,5,0.6);
+    -moz-box-shadow: 12px 17px 14px -13px rgba(0,1,5,0.6);
+    box-shadow: 12px 17px 14px -13px rgba(0,1,5,0.6); */
+    border-radius: 3px 3px;
+}
+
+
+.prepare{
+    color: #000;
+    font-size: 25px;
+    opacity: 1;
+}
+
+#oneimage{
+    width: 65px;
+    height: 50px;
+    margin-left: -3px;
+}
+
+#oneparts{
+    color: #344854;
+    opacity: .8;
+}
+
+
+.round{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid #000;
+    margin-left: px;
+    position: relative;
+}
+.fa-arrow-right{
+    position: absolute;
+    left: 8px;
+    top: 6px;
+}
+.fa-angle-right{
+    font-size: 10px;
+}
+.getstarted{
+    margin-left: -55px;
+    color: #000;
+    font-weight: 600;
+    margin-top: 2px;
+}
+.onestart{
+    margin-left: px;
+}
+.oneitems{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+
+.second{
+    
+}
+
+
+.rightpart{
+    
+}
+
+#six {
+    margin-left: -10px;
+    width: 60px;
+    height: 50px;
+}
+
+
+@media screen and (max-width:1000px){
+ .imagegirl{
+   margin-left: -5px;
+ }
+ .one{
+    width: 90vw;
+    height: 130vh;
+    background-color: #fff;
+ }
+ .getstarted{
+    margin-left:-0.625em;
+ }
+ .menuitemone{
+    margin-top: 10px;
+    margin-left: -25px;
+ }
+ .explore{
+    text-align: justify;
+ }
+    
+}
+/* @media screen and (max-width:350px){
+    .one{
+        width: 18rem;
+        height: 22rem;
+        background-color: #fff;
+     }
+} */
+
